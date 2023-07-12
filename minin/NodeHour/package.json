@@ -1,0 +1,22 @@
+{
+  "name": "node-in-an-hour",
+  "version": "1.0.0",
+  "description": "Node JS Cours",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "nodejs"
+  ],
+  "author": "Vladilen Minin <vladilen@dev.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
