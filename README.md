@@ -4,4 +4,4 @@
 
 ## vladilenMinin
 
-Basic Node.js course and course in an hour
+Basic Node.js course and crash course in an hour
